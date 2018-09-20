@@ -1,0 +1,35 @@
+{
+    "context": "client",
+    "identifier": "com.pa.grandhomie.air_scout_combat_grouping",
+    "display_name": "Air scout combat grouping",
+    "description": "Adds the air scout to the Select All Air Combat Units shortcut.  Useful to scout while attacking.",
+    "author": "Grand Homie",
+    "version": "1.0",
+    "build": "110069",
+    "date": "2018-08-28",
+    "signature": "not yet implemented",
+    "forum": "https://forums.uberent.com/threads/wip-land-scout-skitter-selection-mod.72370/",
+    "icon": "https://cdn.palobby.com/pa/units/air/air_scout/air_scout_icon_buildbar.png",
+    "priority": 100,
+    "unitList": false,
+    "fileSystem": false,
+    "searchable": [
+        "air",
+        "scout",
+        "firefly",
+        "select",
+        "grandhomie"
+    ],
+    "authors": [
+        "Grand Homie"
+    ],
+    "dependencies": [],
+    "companions": [],
+    "scenes": {},
+    "framework": false,
+    "available": true,
+    "enabled": true,
+    "titansOnly": false,
+    "classicOnly": false,
+    "conflicts": {}
+}
